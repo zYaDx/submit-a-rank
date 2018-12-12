@@ -234,7 +234,7 @@ client.on('message' , message => {
 
  client.on ("guildMemberAdd", member => {
   
-   var role = member.guild.roles.find ("name", "· • ●«Legend-Kingdom»● • ·");
+   var role = member.guild.roles.find ("name", "» Zevix Members");
    member.addRole (role);
   
 })
@@ -1582,7 +1582,7 @@ message.channel.send(`${args}`);
 
 client.on('message', msg => {
   if(msg.content === 'رابط')
-  msg.reply('https://discord.gg/w4Nuj8J')
+  msg.reply('https://discord.gg/B652fd2')
 });
 
 const adminprefix = "-!";
