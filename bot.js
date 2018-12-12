@@ -880,9 +880,15 @@ client.on('message', msg => {
 });
 
 client.on('message', msg => {
-  if(msg.content === 'مرحبا')
-  msg.reply('مرحبا')
+  if(msg.content === 'السلام عليكم')
+  msg.reply('وعليكم السلام ورحمة الله وبركاتة')
 });
+
+client.on('message', msg => {
+  if(msg.content === 'سلام عليكم')
+  msg.reply('وعليكم السلام ورحمة الله وبركاتة')
+});
+
 
 client.on('messageDelete', message => {
  
