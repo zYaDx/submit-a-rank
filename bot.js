@@ -142,7 +142,7 @@ client.on("message", message => {
         color: 0x06DF00,
         description: "تم مسح الرسائل ",
         footer: {
-          text: "· • ●«Legend-Kingdom»● • ·"
+          text: "Zevix Community"
         }
       }}).then(msg => {msg.delete(3000)});
                           }
