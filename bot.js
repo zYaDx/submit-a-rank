@@ -45,7 +45,7 @@ client.on('ready', () => {
     console.log(`on  ${client.guilds.size} Servers `);
     console.log(`~~~~~~~~~~~~~~~~~~~~~~~~`);
     console.log(`Logged in as ${client.user.tag}!`);
-    client.user.setGame(`-!help | By: zYaDxB52#1468`,"http://twitch.tv/teamcraft")
+    client.user.setGame(`-!help | By: zYaDxB52#1468`,"http://twitch.tv/zyod4")
     client.user.setStatus("dnd")
  });
 
@@ -273,7 +273,7 @@ client.on('message', message => {
 
  message.author.sendMessage(`
  **
-__~~· • ●«Legend-Kingdom»● • ·~~__ By:<@283880597095710721>
+__~~Zevix Community~~__ By:<@283880597095710721>
 ╔[❖════════════❖]╗
              Prefix = ' -! '
 ╚[❖════════════❖]╝
@@ -305,9 +305,9 @@ __~~· • ●«Legend-Kingdom»● • ·~~__ By:<@283880597095710721>
 ❖-!pau  『أيقاف الاغاني』
 ❖-!res  『تشغيل الاغاني』
 ==================================================================
-رابط السيرفر: https://discord.gg/w4Nuj8J
+رابط السيرفر: https://discord.gg/B652fd2
 ==================================================================
-رابط البوت : https://discordapp.com/api/oauth2/authorize?client_id=522161082786381844&permissions=0&scope=bot
+رابط البوت : https://discordapp.com/api/oauth2/authorize?client_id=522407001842647041&permissions=0&scope=bot
 ==================================================================
 `);
 
