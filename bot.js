@@ -273,19 +273,15 @@ client.on('message', message => {
 
  message.author.sendMessage(`
  **
-__~~Zevix Community~~__ By:<@283880597095710721>
+__~~Evloved~~__ By:<@283880597095710721>
 ╔[❖════════════❖]╗
-             Prefix = ' -! '
+             Prefix = ' - '
 ╚[❖════════════❖]╝
 ╔[❖════════════❖]╗
              Admin Commands
 ╚[❖════════════❖]╝
-❖ -!kick <mention> ➾ طرد شخص من السيرفر
-❖ -!ban <mention> ➾ باند لي الشخص
-❖ -!clear ➾ مسح الشات
-❖ -!mute <mention> ➾ اعطاء ميوت لي الشخص
-❖ -!unmute <mention> ➾ فك الميوت عن الشخص
-❖ -!bc <message> ➾ لأرسال رسالة لجميع الأعضاء على الخاص
+❖ -clear ➾ مسح الشات
+❖ -bc <message> ➾ لأرسال رسالة لجميع الأعضاء على الخاص
 ╔[❖════════════❖]╗
             General  Commands
 ╚[❖════════════❖]╝
